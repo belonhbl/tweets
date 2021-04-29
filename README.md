@@ -1,6 +1,6 @@
 # @LeonHBB's tweets
 
-This repository contains all tweets from [@LeonHBB](twitter.com/LeonHBB) until 28-04-2021.<br>
+This repository contains all tweets from [@LeonHBB](https://twitter.com/LeonHBB) until 28-04-2021.<br>
 (Scraped using [TWINT](https://github.com/twintproject/twint))
 
 Feel free to do anything with this.
